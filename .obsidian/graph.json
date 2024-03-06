@@ -5,117 +5,110 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "module1",
+      "query": "tag:#module1  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "module2",
+      "query": "tag:#module2  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "module3",
+      "query": "tag:#module3",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "module4",
+      "query": "tag:#module4  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "module5",
+      "query": "tag:#module5  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "module6",
+      "query": "tag:#module6  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "module7",
+      "query": "tag:#module7  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "module8",
+      "query": "tag:#module8",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "module9",
+      "query": "tag:#module9  ",
       "color": {
         "a": 1,
         "rgb": 14048429
       }
     },
     {
-      "query": "module10",
+      "query": "tag:#module10  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "module11",
+      "query": "tag:#module11  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "module12",
+      "query": "tag:#WIP  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "tag:#Terminology",
+      "query": "tag:#Terminology  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
-    },
-    {
-      "query": "tag:#General  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.23199066405662,
-  "lineSizeMultiplier": 2.39726697786478,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.1797169101039,
-  "repelStrength": 11.1112784219244,
-  "linkStrength": 0.145987050143051,
-  "linkDistance": 323,
-  "scale": 0.2962962962962964,
-  "close": false
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.837117307087385,
+  "close": true
 }
