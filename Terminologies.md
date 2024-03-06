@@ -33,8 +33,22 @@
 - Repository
 - contains all of your code, your files, and each file's revision history. You can discuss and manage your work within the repository.
 
+#### BGP
+- [Border Gateway Protocol](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-overview)
+- is the standard routing protocol commonly used in the Internet to exchange routing and reachability information between two or more networks.
+- [Border Gateway Protocol (BGP)](https://aws.amazon.com/what-is/border-gateway-protocol/#:~:text=Border%20Gateway%20Protocol%20(BGP)%20is,%2C%20devices%2C%20and%20communication%20technologies.) is a set of rules that determine the best network routes for data transmission on the internet. The internet consists of thousands of private, public, corporate, and government networks linked together through standardized protocols, devices, and communication technologies.
+
+#### VPN
+- [Virtual Private Network](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn#:~:text=A%20VPN%2C%20which%20stands%20for,and%20firewalls%20on%20the%20internet.)
+- establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet. This ensures that your online experiences are private, protected, and more secure.
+- By its very definition, a VPN connection is:
+	- **Virtual** because no physical cables are involved in the connection process.  
+    - **Private** because through this connection, no one else can see your data or browsing activity.  
+    - **Networked** because multiple devices—your computer and the VPN server—work together to maintain an established link.
+
+
 ---
-## Azure Services
+## Azure Services #WIP
 
 
 

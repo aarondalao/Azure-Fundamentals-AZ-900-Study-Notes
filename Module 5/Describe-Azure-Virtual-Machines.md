@@ -74,3 +74,4 @@ When you provision a VM, you’ll also have the chance to pick the resources tha
 
 ---
 [Previous](Describe-Azure-Compute-and-Networking-Services-Intro.md) | [Next](Describe-Azure-Virtual-Desktop.md)
+[Exercises For creating VMs](Exercises#Create-a-VM-using-Azure-Cloud-Shell)

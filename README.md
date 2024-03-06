@@ -1,6 +1,6 @@
 # Azure Fundamentals AZ-900 Study Notes
 
-This repo is a study notes for an overview and the purpose of this is to gain an understanding of cloud computing concepts, the range of Azure services, and the differences between public, private, and hybrid clouds. Recommended for early career cloud professionals and aspiring students.
+This repo is a study notes is an overview of Cloud Computing Technologies and Concepts in the Azure space and the purpose of this is to gain an understanding of cloud computing concepts, the range of Azure services, and the differences between public, private, and hybrid clouds. Recommended for early career cloud professionals and aspiring students.
 
 Created using Obsidian
 
