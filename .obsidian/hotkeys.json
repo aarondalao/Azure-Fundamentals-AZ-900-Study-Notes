@@ -1,0 +1,20 @@
+{
+  "obsidian-autocomplete-plugin:autocomplete-scan-current-file-default": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
