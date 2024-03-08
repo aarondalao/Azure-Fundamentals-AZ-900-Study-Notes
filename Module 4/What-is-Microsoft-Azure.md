@@ -22,4 +22,4 @@ For example, Azure provides artificial intelligence (AI) and machine-learning (M
 #module4
 
 ---
-[Previous](Describe-the-Core-Architectural-Components-of-Azure-Intro) | [Next](Get-Started-with-Azure-Accounts.md)
+[Previous](Intro-Describe-the-Core-Architectural-Components-of-Azure.md) | [Next](Get-Started-with-Azure-Accounts.md)

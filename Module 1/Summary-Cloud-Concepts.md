@@ -22,5 +22,5 @@ The following resources provide more information on topics in this module or rel
 ## Tags:
 #module1 
 
-[Previous](Introduction-to-Cloud-Computing.md) | [Next](Benefits-of-Using-Cloud-Services.md)
+[Previous](Introduction-to-Cloud-Computing.md) | [Next](Intro-Benefits-of-Using-Cloud-Services.md)
 

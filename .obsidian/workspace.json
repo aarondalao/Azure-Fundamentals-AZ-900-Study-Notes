@@ -4,66 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "783619eca981d55a",
+        "id": "535f432c93b5e95b",
         "type": "tabs",
         "children": [
           {
-            "id": "4cce530bf924bcc0",
+            "id": "4332b5d29d80fb7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 5/Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c43f9b73b108e82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 5/Summary-Describe-Azure-Compute-and-Networking-Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26e9e975aa3a34f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Describe-Azure-Storage-Accounts.md",
+                "file": "Module 2/Microsoft-Azure-Well-Architected-Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "7ab99ed0a52a3031",
+        "id": "4c96db4b2912dd7b",
         "type": "tabs",
         "children": [
           {
-            "id": "6203f7dfbdc7b2f3",
+            "id": "c14e11be2ff38460",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 5/Describe-Azure-DNS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "11b59962444a6fb5",
+            "id": "d31934bddb091d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,14 +43,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c14e11be2ff38460",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -111,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WIP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +91,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8fb2e1d0c9c700da",
@@ -149,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 5/Summary-Describe-Azure-Compute-and-Networking-Services.md",
+                "file": "Module 2/Microsoft-Azure-Well-Architected-Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 5/Summary-Describe-Azure-Compute-and-Networking-Services.md",
+                "file": "Module 2/Microsoft-Azure-Well-Architected-Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,15 +152,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 5/Summary-Describe-Azure-Compute-and-Networking-Services.md"
+                "file": "Module 2/Microsoft-Azure-Well-Architected-Framework.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,41 +174,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c43f9b73b108e82b",
+  "active": "4332b5d29d80fb7f",
   "lastOpenFiles": [
-    "Describe-Azure-Storage-Accounts.md",
-    "Module 5/Summary-Describe-Azure-Compute-and-Networking-Services.md",
-    "Module 5/Exercises.md",
-    "Module 6/Describe-Azure-Storage-Services.md",
-    "Module 6",
-    "Module 5/KnowledgeCheck-Describe-Azure-Compute-and-Networking-Services.md",
-    "Module 5/Describe-Azure-DNS.md",
-    "Module 5/Describe-Azure-ExpressRoute.md",
-    "Module 5/Describe-Azure-Virtual-Machines.md",
-    "Module 5/Describe-Azure-Virtual-Networking.md",
-    "Module 1/Introduction-to-Cloud-Computing.md",
-    "Module 5/Describe-Azure-Virtual-Private-Networks.md",
-    "Module 5/Describe-application-hosting-options.md",
+    "Module 11/Knowledge-Check-Describe-monitoring-tools-in-Azure.md",
+    "Module 10/Knowledge-Check-Describe-features-and-tools-for-managing-and-deploying-Azure-resources.md",
+    "Module 6/Identify-Azure-File-Movement-Options.md",
+    "Module 6/Identify-Azure-Data-Migration-Options.md",
+    "Module 8/Exercise-Estimate-Workload-Costs-by-using-the-Pricing-Calculator.md",
+    "Module 6/Exercise-Create-a-Storage-Blob.md",
+    "Module 9/Exercise-Configure-a-Resource-Lock.md",
+    "Module 2/Microsoft-Azure-Well-Architected-Framework.md",
+    "Module 8/Exercise-Compare-workload-costs-using-the-TCO-Calculator.md",
+    "Module 7/Describe-Zero-Trust-Model.md",
+    "Module 10/Describe-tools-for-interacting-with-Azure.md",
+    "Module 9/Describe-the-Purpose-of-the-Service-Trust-Portal.md",
+    "Module 8/Describe-the-Purpose-of-Tags.md",
+    "Module 9/Describe-the-Purpose-of-Resource-Locks.md",
+    "Module 9/Describe-the-Purpose-of-Microsoft-Purview.md",
+    "Module 9/Describe-the-Purpose-of-Azure-Policy.md",
+    "Module 7/Describe-Defense-in-Depth.md",
+    "Module 10/Describe-the-purpose-of-Azure-Arc.md",
+    "Module 11/Describe-the-purpose-of-Azure-Advisor.md",
+    "Module 8/Describe-the-Microsoft-Cost-Management-Tool.md",
+    "Module 7/Describe-Azure-Role-Based-Access-Control.md",
+    "Module 7/Describe-Microsoft-Defender-for-Cloud.md",
     "Terminologies.md",
-    "Module 4/Get-Started-with-Azure-Accounts.md",
-    "README.md",
-    "Module 5/Describe-Azure-Functions.md",
-    "Module 5/Describe-Azure-Virtual-Desktop.md",
-    "Module 5/Describe-Azure-Containers.md",
-    "Module 5/Describe-Azure-Compute-and-Networking-Services-Intro.md",
-    "().md",
-    "Module 4/Describe-Azure-Physical-Infrastructure.md",
+    "Module 8/Describe-factors-that-can-affect-costs-in-Azure.md",
+    "Module 11/Describe-Azure-Service-Health.md",
+    "Module 10/Describe-Azure-Resource-Manager-and-Azure-ARM-templates.md",
+    "Module 11",
+    "Module 10",
+    "Module 9",
+    "Module 8",
+    "Module 7",
+    "Module 6",
     "Module 5",
-    "Module 4/Summary-Describe-the-Core-Architectural-Components-of-Azure.md",
-    "Module 4/Describe-Azure-Management-Infrastructure.md",
-    "Module 4/What-is-Microsoft-Azure.md",
-    "Module 2/Service-Level-Agreements.md",
-    "Module 4/Describe-the-Core-Architectural-Components-of-Azure-Intro.md",
     "Module 4",
     "Module 3",
     "Module 2/Untitled.canvas",
     "Module 2",
-    "Module 1",
     "Untitled.canvas"
   ]
 }

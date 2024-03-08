@@ -28,4 +28,4 @@ When building or deploying a cloud application, two of the biggest consideration
 #module2
 
 ---
-[Previous](Benefits-of-Using-Cloud-Services.md) | [Next](Describe-the-Benefits-of-Reliability-and-Predictability-in-the-Cloud.md)
+[Previous](Intro-Benefits-of-Using-Cloud-Services.md) | [Next](Describe-the-Benefits-of-Reliability-and-Predictability-in-the-Cloud.md)

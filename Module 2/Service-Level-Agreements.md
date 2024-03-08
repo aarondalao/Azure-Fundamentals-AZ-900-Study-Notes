@@ -27,4 +27,4 @@ This [link](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreemen
 #module2
 
 ---
-[Previous](Benefits-of-Using-Cloud-Services.md)
+[Previous](Intro-Benefits-of-Using-Cloud-Services.md)

@@ -17,4 +17,4 @@ You should now be able to:
 #module4
 
 ---
-[Previous](Describe-Azure-Management-Infrastructure) | [Next](Describe-Azure-Compute-and-Networking-Services-Intro.md)
+[Previous](Describe-Azure-Management-Infrastructure) | [Next](Intro-Describe-Azure-Compute-and-Networking-Services.md)

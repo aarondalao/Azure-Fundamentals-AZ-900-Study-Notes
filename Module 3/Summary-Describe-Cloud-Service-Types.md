@@ -19,4 +19,4 @@ You should now be able to:
 #module3
 
 ---
-[Previous](Knowledge-Check-Cloud-Service-Types) | [Next](Describe-the-Core-Architectural-Components-of-Azure-Intro.md)
+[Previous](Knowledge-Check-Cloud-Service-Types) | [Next](Intro-Describe-the-Core-Architectural-Components-of-Azure.md)
