@@ -26,7 +26,10 @@ Each domain area maps to a learning path in Azure Fundamentals. The percentages 
 
 This training helps you develop a broad understanding of Azure.
 
+---
 ## Tags:
 #module1 
+
+---
 
 [Next](Introduction-to-Cloud-Computing.md)

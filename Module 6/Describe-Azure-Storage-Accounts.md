@@ -2,13 +2,14 @@ The following [video](https://www.microsoft.com/en-us/videoplayer/embed/RE4MAbS?
 
 A storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in this account is secure, highly available, durable, and massively scalable.
 
-When you create your storage account, you’ll start by picking the storage account type. The type of account determines the storage services and redundancy options and has an impact on the use cases. Below is a list of redundancy options that will be covered later in this module:
-- Locally redundant storage (LRS)
-- Geo-redundant storage (GRS)
-- Read-access geo-redundant storage (RA-GRS)
-- Zone-redundant storage (ZRS)
-- Geo-zone-redundant storage (GZRS)
-- Read-access geo-zone-redundant storage (RA-GZRS)
+> ❗❗❗ **Important** ❗❗❗
+>When you create your storage account, you’ll start by picking the storage account type. The type of account determines the storage services and redundancy options and has an impact on the use cases. Below is a list of redundancy options that will be covered later in this module:
+>- Locally redundant storage (LRS)
+>- Geo-redundant storage (GRS)
+>- Read-access geo-redundant storage (RA-GRS)
+>- Zone-redundant storage (ZRS)
+>- Geo-zone-redundant storage (GZRS)
+>- Read-access geo-zone-redundant storage (RA-GZRS)
 
 |**Type**|**Supported services**|**Redundancy Options**|**Usage**|
 |---|---|---|---|
@@ -18,16 +19,15 @@ When you create your storage account, you’ll start by picking the storage acco
 |Premium page blobs|Page blobs only|LRS|Premium storage account type for page blobs only.|
 
 ## Storage account endpoints
-One of the benefits of using an Azure Storage Account is having a unique namespace in Azure for your data. In order to do this, every storage account in Azure must have a unique-in-Azure account name. The combination of the account name and the Azure Storage service endpoint forms the endpoints for your storage account.
+- One of the benefits of using an Azure Storage Account is having a unique namespace in Azure for your data. 
+- In order to do this, every storage account in Azure must have a unique-in-Azure account name. 
+- The combination of the account name and the Azure Storage service endpoint forms the endpoints for your storage account.
 
 When naming your storage account, keep these rules in mind:
-
 - Storage account names must be between 3 and 24 characters in length and may contain numbers and lowercase letters only.
 - Your storage account name must be unique within Azure. No two storage accounts can have the same name. This supports the ability to have a unique, accessible namespace in Azure.
 
-The following table shows the endpoint format for Azure Storage services.
-
-Expand table
+The following table shows the endpoint format for Azure Storage services:
 
 | **Storage service**    | **Endpoint**                                          |
 | ---------------------- | ----------------------------------------------------- |
@@ -37,10 +37,9 @@ Expand table
 | Queue Storage          | https://<storage-account-name>.queue.core.windows.net |
 | Table Storage          | https://<storage-account-name>.table.core.windows.net |
 
-
 ---
 ## Tags:
 #module6
 
 ---
-[Previous](Describe-Azure-Storage-Services) | [Next](Describe-Azure-Storage-Redundancy)
+[Previous](Intro-Describe-Azure-Storage-Services.md) | [Next](Describe-Azure-Storage-Redundancy.md)

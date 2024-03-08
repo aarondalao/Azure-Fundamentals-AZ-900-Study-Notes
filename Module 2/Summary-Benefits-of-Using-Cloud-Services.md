@@ -19,5 +19,5 @@ The following resources provide more information on topics in this module or rel
 #module2
 
 ---
-[Previous](Describe-the-Benefits-of-Manageability-in-the-Cloud) | [Next](Describe-Cloud-Service-Types-Introduction.md)
+[Previous](Describe-the-Benefits-of-Manageability-in-the-Cloud) | [Next](Intro-Describe-Cloud-Service-Types.md)
 

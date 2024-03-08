@@ -24,4 +24,4 @@ The following additional resources are intended to provide more information on t
 #module5
 
 ---
-[Previous](KnowledgeCheck-Describe-Azure-Compute-and-Networking-Services) | [Next](Describe-Azure-Storage-Services.md)
+[Previous](KnowledgeCheck-Describe-Azure-Compute-and-Networking-Services) | [Next](Intro-Describe-Azure-Storage-Services.md)

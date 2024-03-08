@@ -25,4 +25,4 @@ Some common scenarios where IaaS might make sense include:
 #module3
 
 ---
-[Previous](Describe-Cloud-Service-Types-Introduction) | [Next](Describe-PaaS.md)
+[Previous](Intro-Describe-Cloud-Service-Types.md) | [Next](Describe-PaaS.md)
